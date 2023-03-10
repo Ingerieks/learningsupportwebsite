@@ -73,13 +73,47 @@ color: purple;
   font-size: 1.4em; 
 }
 
+/* FEES */
+
+.fees-flyer {
+  width: 50%;
+}
+
+.fees-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.fee-structure-heading {
+font-weight: bold;
+font-size: 1.5em;
+color: purple;
+margin: 10% 0 0 10%;
+}
+
+/* SCHEDULE AN APPOINTMENT */
+
+.appointment-text {
+  font-weight: bold;
+font-size: 1.5em;
+color: purple;
+margin: 10% 0 0 10%;
+}
+
+.koalender {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* FOOTER */
 
 .footer-basic {
   padding:40px 0;
   background-color:#ffffff;
   color:#4b4c4d;
-  margin-top: 10%;
 }
 
 .footer-basic ul {
